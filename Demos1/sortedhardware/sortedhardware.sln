@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sortedhardware", "sortedhardware\sortedhardware.csproj", "{5B061D45-DFD3-4065-85A5-2F25F36A31B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B061D45-DFD3-4065-85A5-2F25F36A31B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B061D45-DFD3-4065-85A5-2F25F36A31B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B061D45-DFD3-4065-85A5-2F25F36A31B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B061D45-DFD3-4065-85A5-2F25F36A31B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5F4790E-ABE6-48C6-8BFE-5D8B193B7C12}
+	EndGlobalSection
+EndGlobal

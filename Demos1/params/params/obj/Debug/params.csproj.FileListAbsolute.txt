@@ -1,0 +1,8 @@
+F:\Day - 6\params\params\bin\Debug\@params.exe.config
+F:\Day - 6\params\params\bin\Debug\@params.exe
+F:\Day - 6\params\params\bin\Debug\@params.pdb
+F:\Day - 6\params\params\obj\Debug\params.csproj.AssemblyReference.cache
+F:\Day - 6\params\params\obj\Debug\params.csproj.SuggestedBindingRedirects.cache
+F:\Day - 6\params\params\obj\Debug\params.csproj.CoreCompileInputs.cache
+F:\Day - 6\params\params\obj\Debug\@params.exe
+F:\Day - 6\params\params\obj\Debug\@params.pdb

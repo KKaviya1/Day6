@@ -1,0 +1,8 @@
+F:\Day - 6\sortedhardware\sortedhardware\obj\Debug\sortedhardware.csproj.AssemblyReference.cache
+F:\Day - 6\sortedhardware\sortedhardware\obj\Debug\sortedhardware.csproj.SuggestedBindingRedirects.cache
+F:\Day - 6\sortedhardware\sortedhardware\obj\Debug\sortedhardware.csproj.CoreCompileInputs.cache
+F:\Day - 6\sortedhardware\sortedhardware\bin\Debug\sortedhardware.exe.config
+F:\Day - 6\sortedhardware\sortedhardware\bin\Debug\sortedhardware.exe
+F:\Day - 6\sortedhardware\sortedhardware\bin\Debug\sortedhardware.pdb
+F:\Day - 6\sortedhardware\sortedhardware\obj\Debug\sortedhardware.exe
+F:\Day - 6\sortedhardware\sortedhardware\obj\Debug\sortedhardware.pdb

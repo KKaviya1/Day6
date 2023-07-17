@@ -1,0 +1,8 @@
+F:\Day - 6\queue\queue\obj\Debug\queue.csproj.AssemblyReference.cache
+F:\Day - 6\queue\queue\obj\Debug\queue.csproj.SuggestedBindingRedirects.cache
+F:\Day - 6\queue\queue\obj\Debug\queue.csproj.CoreCompileInputs.cache
+F:\Day - 6\queue\queue\bin\Debug\queue.exe.config
+F:\Day - 6\queue\queue\bin\Debug\queue.exe
+F:\Day - 6\queue\queue\bin\Debug\queue.pdb
+F:\Day - 6\queue\queue\obj\Debug\queue.exe
+F:\Day - 6\queue\queue\obj\Debug\queue.pdb

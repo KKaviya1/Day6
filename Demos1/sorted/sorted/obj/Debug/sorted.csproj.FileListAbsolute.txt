@@ -1,0 +1,8 @@
+F:\Day - 6\sorted\sorted\bin\Debug\sorted.exe.config
+F:\Day - 6\sorted\sorted\bin\Debug\sorted.exe
+F:\Day - 6\sorted\sorted\bin\Debug\sorted.pdb
+F:\Day - 6\sorted\sorted\obj\Debug\sorted.csproj.AssemblyReference.cache
+F:\Day - 6\sorted\sorted\obj\Debug\sorted.csproj.SuggestedBindingRedirects.cache
+F:\Day - 6\sorted\sorted\obj\Debug\sorted.csproj.CoreCompileInputs.cache
+F:\Day - 6\sorted\sorted\obj\Debug\sorted.exe
+F:\Day - 6\sorted\sorted\obj\Debug\sorted.pdb
