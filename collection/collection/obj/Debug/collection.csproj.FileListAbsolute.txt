@@ -1,0 +1,8 @@
+F:\Day - 6\collection\collection\bin\Debug\collection.exe.config
+F:\Day - 6\collection\collection\bin\Debug\collection.exe
+F:\Day - 6\collection\collection\bin\Debug\collection.pdb
+F:\Day - 6\collection\collection\obj\Debug\collection.csproj.AssemblyReference.cache
+F:\Day - 6\collection\collection\obj\Debug\collection.csproj.SuggestedBindingRedirects.cache
+F:\Day - 6\collection\collection\obj\Debug\collection.csproj.CoreCompileInputs.cache
+F:\Day - 6\collection\collection\obj\Debug\collection.exe
+F:\Day - 6\collection\collection\obj\Debug\collection.pdb
