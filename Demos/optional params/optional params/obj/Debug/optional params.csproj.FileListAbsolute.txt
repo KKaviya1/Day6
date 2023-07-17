@@ -1,0 +1,8 @@
+F:\Day - 6\optional params\optional params\bin\Debug\optional params.exe.config
+F:\Day - 6\optional params\optional params\bin\Debug\optional params.exe
+F:\Day - 6\optional params\optional params\bin\Debug\optional params.pdb
+F:\Day - 6\optional params\optional params\obj\Debug\optional params.csproj.AssemblyReference.cache
+F:\Day - 6\optional params\optional params\obj\Debug\optional params.csproj.SuggestedBindingRedirects.cache
+F:\Day - 6\optional params\optional params\obj\Debug\optional params.csproj.CoreCompileInputs.cache
+F:\Day - 6\optional params\optional params\obj\Debug\optional params.exe
+F:\Day - 6\optional params\optional params\obj\Debug\optional params.pdb

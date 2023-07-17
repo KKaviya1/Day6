@@ -1,0 +1,8 @@
+F:\Day - 6\methods\methods\obj\Debug\methods.csproj.AssemblyReference.cache
+F:\Day - 6\methods\methods\obj\Debug\methods.csproj.SuggestedBindingRedirects.cache
+F:\Day - 6\methods\methods\obj\Debug\methods.csproj.CoreCompileInputs.cache
+F:\Day - 6\methods\methods\bin\Debug\methods.exe.config
+F:\Day - 6\methods\methods\bin\Debug\methods.exe
+F:\Day - 6\methods\methods\bin\Debug\methods.pdb
+F:\Day - 6\methods\methods\obj\Debug\methods.exe
+F:\Day - 6\methods\methods\obj\Debug\methods.pdb

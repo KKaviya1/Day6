@@ -1,0 +1,8 @@
+F:\Day - 6\dictionary\dictionary\obj\Debug\dictionary.csproj.AssemblyReference.cache
+F:\Day - 6\dictionary\dictionary\obj\Debug\dictionary.csproj.SuggestedBindingRedirects.cache
+F:\Day - 6\dictionary\dictionary\obj\Debug\dictionary.csproj.CoreCompileInputs.cache
+F:\Day - 6\dictionary\dictionary\bin\Debug\dictionary.exe.config
+F:\Day - 6\dictionary\dictionary\bin\Debug\dictionary.exe
+F:\Day - 6\dictionary\dictionary\bin\Debug\dictionary.pdb
+F:\Day - 6\dictionary\dictionary\obj\Debug\dictionary.exe
+F:\Day - 6\dictionary\dictionary\obj\Debug\dictionary.pdb

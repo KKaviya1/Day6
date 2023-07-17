@@ -1,0 +1,8 @@
+F:\Day - 6\calc\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+F:\Day - 6\calc\calc\obj\Debug\calc.csproj.SuggestedBindingRedirects.cache
+F:\Day - 6\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+F:\Day - 6\calc\calc\bin\Debug\calc.exe.config
+F:\Day - 6\calc\calc\bin\Debug\calc.exe
+F:\Day - 6\calc\calc\bin\Debug\calc.pdb
+F:\Day - 6\calc\calc\obj\Debug\calc.exe
+F:\Day - 6\calc\calc\obj\Debug\calc.pdb
